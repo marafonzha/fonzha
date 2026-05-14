@@ -1,10 +1,18 @@
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="1. VIDSPO", CTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=9182
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="1. VIDSPO", CTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=9183
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/30lyqBKNONYQU_dEK4-49bxFFiY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5001809/84055a.jpg" group-title="JADWAL VIDIOTV", CTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9182.drm?dev_kaki_09&t=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&h=9ecb47b1e5eaa323f31e2035990e0416f943479acbc79894046f463da1ff957a
-https://aspaltvpasti.top/11111/9182.mpd?dev_kaki_09&t=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&h=9ecb47b1e5eaa323f31e2035990e0416f943479acbc79894046f463da1ff957a
+https://aspaltvpasti.top/11111/9182.mpd?
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/30lyqBKNONYQU_dEK4-49bxFFiY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5001809/84055a.jpg" group-title="JADWAL VIDIOTV", CTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -12,7 +20,7 @@ https://aspaltvpasti.top/11111/9182.mpd?dev_kaki_09&t=1775417226&uip=2400%3A9800
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9183.drm?exp=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&sign=fac494d7e009f8dccd4c748e2f37fe7c6bd09a849f4f18debbbaa3e85c3f8df6
-https://aspaltvpasti.top/11111/9183.mpd?exp=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&sign=70ee570eae7a7e4a9d51c5855d2aabf20cc4609d731b29c0f34a05ede39430f7
+https://aspaltvpasti.top/11111/9183.mpd
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yXtgmb3O_BOjyONffK0OuQefCVw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005175/73b7a5.jpg" group-title="JADWAL VIDIOTV", CTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -20,7 +28,7 @@ https://aspaltvpasti.top/11111/9183.mpd?exp=1775417226&uip=2400%3A9800%3A357%3Af
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6786.drm?dev_kaki_09&t=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&h=2f756fde22676b95e720685c646133e6b42b3b433a9317fd4723f83e57d74314
-https://aspaltvpasti.top/11111/6786.mpd?dev_kaki_09&t=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&h=2f756fde22676b95e720685c646133e6b42b3b433a9317fd4723f83e57d74314
+https://aspaltvpasti.top/11111/6786.mpd.drm?
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yXtgmb3O_BOjyONffK0OuQefCVw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005175/73b7a5.jpg" group-title="JADWAL VIDIOTV", CTV3 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -28,21 +36,24 @@ https://aspaltvpasti.top/11111/6786.mpd?dev_kaki_09&t=1775417226&uip=2400%3A9800
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19404.drm?exp=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&sign=acfa9bd1a179372c362eb280f35e777e6c3473cd840a080d5978a4dc1579fea3
-https://aspaltvpasti.top/11111/19404.mpd?exp=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&sign=f87b6ed75286986cf9d01182ed9bf2b6e1551a670f011326dce55a459af1fc1b
+https://aspaltvpasti.top/11111/19404.mpd.drm
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nJdPd_DQRcaZ-VmPUNJoDQK6cVw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006822/9cebf8.jpg" group-title="JADWAL VIDIOTV", CTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/17939.drm?dev_kaki_09&t=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&h=31e41ef084dec634888a9a0ea10fed985a63eca83f9cbc77a3ebc59b47d46681
-https://aspaltvpasti.top/11111/17939.mpd?dev_kaki_09&t=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&h=31e41ef084dec634888a9a0ea10fed985a63eca83f9cbc77a3ebc59b47d46681
+https://aspaltvpasti.top/11111/17939.mpd?
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nJdPd_DQRcaZ-VmPUNJoDQK6cVw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006822/9cebf8.jpg" group-title="JADWAL VIDIOTV", CTV2 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6686.drm?exp=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&sign=ccc1ab54995117b6a8b616efa95184a3eb51ef99e9dc75940226b9f195f56cc1
-https://aspaltvpasti.top/11111/6686.mpd?exp=1775417226&uip=2400%3A9800%3A357%3Af747%3A6850%3A6c7c%3A6ea%3A1ddc&sign=96c4d922041b8f7d788190bd8b83894b08dd5e3a5d307c15abe97d2c6f8088f2
+https://aspaltvpasti.top/11111/6686.mpd
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/andzABa_5NL6EBF7YJgl1vWtUZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007304/d42f16.jpg" group-title="JADWAL VIDIOTV", CTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
