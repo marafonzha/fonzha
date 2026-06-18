@@ -1,16 +1,15 @@
 LINK https://github.com/Bluestraveller13/super-duper-spork
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Transtv.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV 
 #EXTVLCOPT:http-user-agent=android-R+
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
-#EXTINF:-1 tvg-id="7" group-title="NASIONAL" tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 DTI
+#EXTINF:-1 tvg-id="trans7" group-title="NASIONAL" tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 DTI
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-
-#EXTINF:-1 tvg-id="7" group-title="NASIONAL" tvg-id="Transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Transtv.png",TRANS TV-DTI
+#EXTINF:-1 tvg-id="transtv" group-title="NASIONAL" tvg-id="Transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Transtv.png",TRANS TV DTI
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
@@ -21,7 +20,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="NASIONAL",TRANS 7a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="ID.210" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="NASIONAL", Trans TV CBM
 http://103.148.44.38:8000/play/a05e/index.m3u8
@@ -35,7 +33,7 @@ http://baka.semar.my.id:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="NASIONAL", Trans 7 CBM2
 http://baka.semar.my.id:8000/play/a05f/index.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="NASIONAL", TRANS 7 CBM3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="NASIONAL", TRANS 7 CBM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -43,7 +41,7 @@ EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sk
 #KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
 https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/VFJBTlM3LW15/manifest.mpd
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="NASIONAL", TRANS TV CBM3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="NASIONAL", TRANS TV CBM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -51,52 +49,50 @@ EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sk
 #KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
 https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/VHJhbnNUVg/manifest.mpd
 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV 
-#EXTVLCOPT:http-user-agent=android-R+
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
-#EXTINF:-1 tvg-id="7" group-title="NASIONAL" tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS 7 DTI
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="NASIONAL",TRANS 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/trans7.jpg" group-title="NASIONAL",TRANS 7 V+
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="NASIONAL",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="NASIONAL",TRANS TV V+
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="NASIONAL",TRANS TV2
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="NASIONAL",TRANS TVV+
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL" tvg-id="Trans7.id" tvg-name="Trans7.id", TRANS TV DTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL" tvg-id="Transtv.id" tvg-name="Transtv.id", TRANS TV DTI
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL" tvg-id="Trans7.id" tvg-name="Trans7.id", TRANS TV DTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL" tvg-id="Transtv.id" tvg-name="Transtv.id", TRANS TV2 DTI
 https://video.detik.com/transtv/smil:ttv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV A
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trantv.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV A-
+#EXTVLCOPT:http-user-agent=android-R+
+https://livestream.trans7.co.id/stream/live/t7.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="TransTV.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV B-
+#EXTVLCOPT:http-user-agent=android-R+
+https://livestream.trans7.co.id/stream/live/trans7.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="TransTV.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV A
 #EXTVLCOPT:http-user-agent=android-R+
 https://livestream.transtv.co.id/stream/live/t7.m3u8
 
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV B
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Transtv.id" tvg-logo="https://i.imgur.com/2tL3JRf.png" group-title="NASIONAL", TRANS TV B
 #EXTVLCOPT:http-user-agent=android-R+
 https://livestream.transtv.co.id/stream/live/trans7.m3u8
 
