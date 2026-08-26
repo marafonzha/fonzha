@@ -21027,39 +21027,51 @@ https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",1
-https://op-flashcon-digdayahd-1.dens.tv/h/h1/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h01/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",2
-https://op-flashcon-digdayahd-1.dens.tv/h/h2/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h02/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",3
-https://op-flashcon-digdayahd-1.dens.tv/h/h3/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h03/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",4
-https://op-flashcon-digdayahd-1.dens.tv/h/h4/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",5
-https://op-flashcon-digdayahd-1.dens.tv/h/h5/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",6
-https://op-flashcon-digdayahd-1.dens.tv/h/h6/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",7
-https://op-flashcon-digdayahd-1.dens.tv/h/h7/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h07/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",8
-https://op-flashcon-digdayahd-1.dens.tv/h/h8/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h08/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",9
-https://op-flashcon-digdayahd-1.dens.tv/h/h9/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",010
+https://op-flashcon-digdayahd-1.dens.tv/h/h010/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",011
+https://op-flashcon-digdayahd-1.dens.tv/h/h011/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="Metro.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",012
+https://op-flashcon-digdayahd-1.dens.tv/h/h012/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="DENS-TV",10
