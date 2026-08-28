@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7 (V+)
+#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="LOKAL INDO" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png",TransTV (V+)
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="LOKAL INDO" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png",TransTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -58,7 +58,6 @@ https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="LOKAL INDO",SCTV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
@@ -71,7 +70,6 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="LOKAL INDO", Trans 7
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1413,8 +1411,6 @@ http://202.169.224.202:8800/udp/239.9.1.1:1234
 http://202.169.224.202:8800/udp/239.9.1.8:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#@ INDONESIAN || TELEVISION", Citra drama (udp)
 http://202.169.224.202:8800/udp/239.9.1.12:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#@ INDONESIAN || TELEVISION", Citra musik (udp)
-http://202.169.224.202:8800/udp/239.9.1.14:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#@ INDONESIAN || TELEVISION", Citra bioskop (udp)
 http://202.169.224.202:8800/udp/239.9.1.15:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#@ INDONESIAN || TELEVISION", Citra entertainment (udp)
@@ -2404,14 +2400,6 @@ https://tvratu.my.id/vid/index.mpd?id=9713&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=74328&type=drm
 https://tvratu.my.id/vid/index.mpd?id=7432&type=dash
 
-#EXTINF:-1 group-title="#@ VIDIO_" tvg-logo="https://i.postimg.cc/SQTLjRnj/ezgif-4e840dec9df68523.png",MUSICA (VD)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=76198&type=drm
-https://tvratu.my.id/vid/index.mpd?id=7619&type=dash
-
 #EXTINF:-1 group-title="#@ VIDIO_" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",DAAI TV (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -2626,30 +2614,6 @@ https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="#@ INDIHOME_TV",SIN PO TV
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="My.Kidz.id" tvg-name="My Kidz" tvg-logo="https://mimipipi22.github.io/logo/kids/mykidz.jpg" group-title="#@ INDIHOME_TV",MY KIDZ
-https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
-
-#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="#@ INDIHOME_TV",BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://mimipipi22.github.io/logo/music/prambors.jpg" group-title="#@ INDIHOME_TV",PRAMBORS TV
-https://cdnbal1.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MUI.TV.id" tvg-name="MUI TV.id" tvg-logo="https://mimipipi22.github.io/logo/religion/muitv.jpg" group-title="#@ INDIHOME_TV",MUITV
-https://cdnbal1.indihometv.com/atm/DASH/muitv/manifest.mpd
-
-#EXTINF:-1 tvg-id="MTATV.id" group-title="#@ INDIHOME_TV" tvg-logo="https://images.indihometv.com/assets/88_MTATV_2025_03_17_14_56_40.png",MTATV
-https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/religion/uchannel.jpg" group-title="#@ INDIHOME_TV",U-CHANNEL
-https://cdnbal1.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
 #EXTINF:-1 group-title="$Relax" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",UFC_
 http://tv.cloudcdn.me/live.ts?channelId=132120&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -3699,46 +3663,12 @@ http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS", ASTRO STADIUM
 http://tv.cloudcdn.me/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1036490.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO CRICKET HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1036490&extension=ts
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-3.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Grandstand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&extension=ts
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-4.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571246&extension=ts
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Premier League 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
-
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554968.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",MY| ASTRO Sports Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=554968&extension=ts
-
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",meWATCH 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="$ SG ∆ MALAYSIA ➾ SPORTS",meWATCH 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-7-th.png" group-title="$ PH ∆ THAILAND ➾ Sports", T SPORTS 7
@@ -4727,34 +4657,6 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 1 HD 
-http://178.253.194.79:10006 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 2 HD 
-http://178.253.194.79:10007 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 3 HD 
-http://178.253.194.79:10008 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 4 HD 
-http://178.253.194.79:10009 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 5 HD 
-http://178.253.194.79:10010 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 6 HD 
-http://178.253.194.79:10011 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 7 HD 
-http://178.253.194.79:10012 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 8 HD 
-http://178.253.194.79:10013 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 1 Premium HD 
-http://178.253.194.79:10001 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 2 Premium HD 
-http://178.253.194.79:10004 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 3 Premium HD 
-http://178.253.194.79:10005 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 4 Premium HD 
-http://178.253.194.79:10016 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Sport 5 Premium HD 
-http://178.253.194.79:10017 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Tennis HD 
 http://178.253.194.79:10019 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="$LIVE||SPORTS", Arena Adrenalin HD 
@@ -6131,14 +6033,6 @@ https://ayo.maling.pl/V/vision/id=138.cok.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
 https://ayo.maling.pl/V/vision/id=139.cok.mpd
 
-#EXTINF:-1 tvg-id="142" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png" group-title="📂 CH VISION+",Music Tv
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=142.play
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-https://ayo.maling.pl/V/vision/id=142.cok.mpd
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png" group-title="📂 CH VISION+",DW News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7480,16 +7374,328 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 #EXTINF:-1 tvg-id="Astha Tv" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astha_TV_logo.png/512px-Astha_TV_logo.png" group-title="LOKAL INDO TV",ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
-#======================================================== HANACARAKA TV ====================================================================
+#======================================================== SPORTS MY ====================================================================
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Hanacaraka.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/hanacaraka.jpg" group-title="LOKAL INDO TV",HANACARAKA TV (V+)
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="SPORTSKU", ASTRO Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
 
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="SPORTSKU", ASTRO Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1036490.png" group-title="SPORTSKU", ASTROCRICKET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1036490&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-3.png" group-title="SPORTSKU", ASTRO Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-4.png" group-title="SPORTSKU", ASTRO Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571246&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="SPORTSKU", ASTRO SPORTZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571249&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554968.png" group-title="SPORTSKU", ASTRO Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=554968&extension=ts
+
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="SPORTSKU",PL: ELEVEN SPORTS 1
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/880
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="SPORTSKU",PL: ELEVEN SPORTS 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/881
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="SPORTSKU",PL: ELEVEN SPORTS 3
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/882
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="SPORTSKU",PL: ELEVEN SPORTS 4
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/883
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="title="DAZN-SPORTS",PT: DAZN SPORT 1
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99475
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="title="DAZN-SPORTS",PT: DAZN SPORT 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99476
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="title="DAZN-SPORTS",PT: DAZN SPORT 3
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99477
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="title="DAZN-SPORTS",PT: DAZN SPORT 4
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99478
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="title="DAZN-SPORTS",PT: DAZN SPORT 5
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99479
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="title="DAZN-SPORTS",PT: DAZN SPORT 6
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99480
+
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport1.png" group-title="ARENA SPORTS",CRO: ARENA SPORT 1
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2991
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport2.png" group-title="ARENA SPORTS",CRO: ARENA SPORT 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2992
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport3.png" group-title="ARENA SPORTS",CRO: ARENA SPORT 3
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2993
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport4.png" group-title="ARENA SPORTS",CRO: ARENA SPORT 4
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2994
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport5.png" group-title="ARENA SPORTS",CRO: ARENA SPORT 5
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2995
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport6.png" group-title="ARENA SPORTS",CRO: ARENA SPORT 6
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2996
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 7" tvg-logo="" group-title="ARENA SPORTS",CRO: ARENA SPORT 7
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114939
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 8" tvg-logo="" group-title="ARENA SPORTS",CRO: ARENA SPORT 8
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114940
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 9" tvg-logo="" group-title="ARENA SPORTS",CRO: ARENA SPORT 9
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114941
+#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 10" tvg-logo="" group-title="ARENA SPORTS",CRO: ARENA SPORT 10
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114942
+
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 HR" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="ARENA SPORTS", ARENA SPORT 1 HR
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3409
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="ARENA SPORTS", ARENA SPORT 1 SRB
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3410
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 BIH" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="ARENA SPORTS", ARENA SPORT 2 BIH
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3411
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="ARENA SPORTS", ARENA SPORT 2 SRB
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3412
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 3 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="ARENA SPORTS", ARENA SPORT 3 SRB
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3413
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 BIH" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport4.png" group-title="ARENA SPORTS", ARENA SPORT 4 BIH
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3414
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport4.png" group-title="ARENA SPORTS", ARENA SPORT 4 SRB
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3415
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 5 HR" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport5.png" group-title="ARENA SPORTS", ARENA SPORT 5 HR
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3416
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 5 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport5.png" group-title="ARENA SPORTS", ARENA SPORT 5 SRB
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3417
+
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport Premium 1" tvg-logo="" group-title="ARENA SPORTS", ARENA Sport Premium 1
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/97139
+#EXTINF:-1 tvg-id="" tvg-name="EX_YU: Arena Sport Premium 2" tvg-logo="" group-title="ARENA SPORTS", Arena Sport Premium 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/97140
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport Premium 3" tvg-logo="" group-title="ARENA SPORTS", ARENA Sport Premium 3
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/97141
+
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_BIH.png" group-title="ARENA SPORTS", ARENA SPORT 1 (BIH)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144491
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 1 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144492
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 1 (SRB)  FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144493
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 1 (SRB)  HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144494
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 10 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144495
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT 10 (SRB) FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144496
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1X2 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1X2_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 1X2 (SRB)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144497
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_BIH.png" group-title="ARENA SPORTS", ARENA SPORT 2 (BIH)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144498
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 2 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144499
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 2 (SRB)  FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144500
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 2 (SRB)  HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144501
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_BIH.png" group-title="ARENA SPORTS", ARENA SPORT 3 (BIH)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144502
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 3 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144503
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 3 (SRB)  FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144504
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 3 (SRB)  HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144505
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 4 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144506
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 4 (SRB)  FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144507
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 4 (SRB)  HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144508
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 5 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144509
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 5 (SRB)  FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144510
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 5 (SRB)  HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144511
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 6 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144512
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 6 (SRB)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144513
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 7 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144514
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 7 (SRB)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144515
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 8 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144516
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 8 (SRB)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144517
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 9 (CRO)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144518
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT 9 (SRB) FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144519
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_BIH.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 1 (BIH)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144520
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 1 (SRB) FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144521
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_HD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 1 (SRB) HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144522
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_BIH.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 2 (BIH)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144523
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 2 (SRB) FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144524
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_HD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 2 (SRB) HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144525
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_BIH.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 3 (BIH)
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144526
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 3 (SRB) FHD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144527
+#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_HD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 3 (SRB) HD
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144528
+
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1x2" tvg-logo="" group-title="ARENA SPORTS",SRB: Arena Sport 1x2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115017
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="ARENA SPORTS",SRB: Arena Sport 1
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115037
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 2" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="ARENA SPORTS",SRB: Arena Sport 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115038
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 3" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="ARENA SPORTS",SRB: Arena Sport 3
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115039
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 4" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport4.png" group-title="ARENA SPORTS",SRB: Arena Sport 4
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115040
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 5" tvg-logo="http://inax.top:8080/megarestream/Hehe321@restreamer/5520" group-title="ARENA SPORTS",SRB: Arena Sport 5
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115041
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 6" tvg-logo="" group-title="ARENA SPORTS",SRB: Arena Sport 6
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115018
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 7" tvg-logo="" group-title="ARENA SPORTS",SRB: Arena Sport 7
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115019
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 8" tvg-logo="" group-title="ARENA SPORTS",SRB: Arena Sport 8
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115020
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 9" tvg-logo="" group-title="ARENA SPORTS",SRB: Arena Sport 9
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115021
+#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 10" tvg-logo="" group-title="ARENA SPORTS",SRB: Arena Sport 10
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115022
+
+#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="ARENA SPORTS",BH: Arena Sport
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115063
+#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport 2" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="ARENA SPORTS",BH: Arena Sport 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115068
+#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport 3" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="ARENA SPORTS",BH: Arena Sport 3
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115064
+#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport Premium 1" tvg-logo="" group-title="ARENA SPORTS",BH: Arena Sport Premium 1
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115065
+#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport Premium 2" tvg-logo="" group-title="ARENA SPORTS",BH: Arena Sport Premium 2
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115066
+#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport Premium 3" tvg-logo="" group-title="ARENA SPORTS",BH: Arena Sport Premium 3
+http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115067
+
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_BIH.png" group-title="ARENA SPORTS", ARENA SPORT 1 (BIH)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144491
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 1 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144492
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 1 (SRB)  FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144493
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 1 (SRB)  HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144494
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 10 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144495
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT 10 (SRB) FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144496
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1X2 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1X2_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 1X2 (SRB)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144497
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_BIH.png" group-title="ARENA SPORTS", ARENA SPORT 2 (BIH)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144498
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 2 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144499
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 2 (SRB)  FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144500
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 2 (SRB)  HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144501
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_BIH.png" group-title="ARENA SPORTS", ARENA SPORT 3 (BIH)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144502
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 3 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144503
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 3 (SRB)  FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144504
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 3 (SRB)  HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144505
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 4 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144506
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 4 (SRB)  FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144507
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 4 (SRB)  HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144508
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 5 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144509
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__FHD.png" group-title="ARENA SPORTS", ARENA SPORT 5 (SRB)  FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144510
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__HD.png" group-title="ARENA SPORTS", ARENA SPORT 5 (SRB)  HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144511
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 6 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144512
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 6 (SRB)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144513
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 7 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144514
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 7 (SRB)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144515
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 8 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144516
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_SRB.png" group-title="ARENA SPORTS", ARENA SPORT 8 (SRB)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144517
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_CRO.png" group-title="ARENA SPORTS", ARENA SPORT 9 (CRO)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144518
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT 9 (SRB) FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144519
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_BIH.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 1 (BIH)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144520
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 1 (SRB) FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144521
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_HD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 1 (SRB) HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144522
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_BIH.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 2 (BIH)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144523
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 2 (SRB) FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144524
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_HD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 2 (SRB) HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144525
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_BIH.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 3 (BIH)
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144526
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_FHD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 3 (SRB) FHD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144527
+#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_HD.png" group-title="ARENA SPORTS", ARENA SPORT PREMIUM 3 (SRB) HD
+http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144528
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 1 HD 
+http://178.253.194.79:10006
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 2 HD 
+http://178.253.194.79:10007
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 3 HD 
+http://178.253.194.79:10008
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 4 HD 
+http://178.253.194.79:10009
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 5 HD 
+http://178.253.194.79:10010
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 6 HD 
+http://178.253.194.79:10011
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 7 HD 
+http://178.253.194.79:10012
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 8 HD 
+http://178.253.194.79:10013
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 1 Premium HD 
+http://178.253.194.79:10001
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 2 Premium HD 
+http://178.253.194.79:10004
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 3 Premium HD 
+http://178.253.194.79:10005
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 4 Premium HD 
+http://178.253.194.79:10016
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ARENA SPORTS", Arena Sport 5 Premium HD 
+http://178.253.194.79:10017
 
 #======================================================== SPORTSTARS ====================================================================
 # ---------------- SPORTSTARS
@@ -12982,60 +13188,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135153
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135154
 #EXTINF:-1 tvg-id="" tvg-name="DE: ZHOU DRIVERS CAM" tvg-logo="https://docdog.top/logo/countries/germany/new/ZHOU_DRIVERS_CAM.png" group-title="DE | FORMEL 1",DE: ZHOU DRIVERS CAM
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135155
-#EXTINF:-1 tvg-id="" tvg-name="DE: BALLERMANN TV" tvg-logo="https://docdog.top/logo/countries/germany/new/BALLERMANN_TV.png" group-title="DE | MUSIK",DE: BALLERMANN TV
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135191
-#EXTINF:-1 tvg-id="" tvg-name="DE: CLUB MTV" tvg-logo="https://docdog.top/logo/countries/germany/new/CLUB_MTV.png" group-title="DE | MUSIK",DE: CLUB MTV
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135192
-#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE DANCE" tvg-logo="https://docdog.top/logo/countries/germany/new/DELUXE_DANCE.png" group-title="DE | MUSIK",DE: DELUXE DANCE
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135193
-#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE FLASHBACK" tvg-logo="https://docdog.top/logo/countries/germany/new/DELUXE_FLASHBACK.png" group-title="DE | MUSIK",DE: DELUXE FLASHBACK
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135194
-#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE LOUNGE" tvg-logo="https://docdog.top/logo/countries/germany/new/DELUXE_LOUNGE.png" group-title="DE | MUSIK",DE: DELUXE LOUNGE
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135195
-#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE MUSIC" tvg-logo="https://docdog.top/logo/countries/germany/new/DELUXE_MUSIC_HD.png" group-title="DE | MUSIK",DE: DELUXE MUSIC
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135196
-#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE RAP" tvg-logo="https://docdog.top/logo/countries/germany/new/DELUXE_RAP.png" group-title="DE | MUSIK",DE: DELUXE RAP
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135197
-#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE ROCK" tvg-logo="https://docdog.top/logo/countries/germany/new/DELUXE_ROCK.png" group-title="DE | MUSIK",DE: DELUXE ROCK
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135198
-#EXTINF:-1 tvg-id="" tvg-name="DE: DEUTSCHES MUSIK FERNSEHEN" tvg-logo="https://docdog.top/logo/countries/germany/new/DEUTSCHES_MUSIK_FERNSEHEN.png" group-title="DE | MUSIK",DE: DEUTSCHES MUSIK FERNSEHEN
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135199
-#EXTINF:-1 tvg-id="" tvg-name="DE: FOLX MUSIC TELEVISION" tvg-logo="https://docdog.top/logo/countries/germany/new/FOLX_MUSIC_TELEVISION.png" group-title="DE | MUSIK",DE: FOLX MUSIC TELEVISION
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135200
-#EXTINF:-1 tvg-id="" tvg-name="DE: GUTE LAUNE" tvg-logo="https://docdog.top/logo/countries/germany/new/GUTE_LAUNE.png" group-title="DE | MUSIK",DE: GUTE LAUNE
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135201
-#EXTINF:-1 tvg-id="" tvg-name="DE: JUKEBOX" tvg-logo="https://docdog.top/logo/countries/germany/new/JUKEBOX.png" group-title="DE | MUSIK",DE: JUKEBOX
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135202
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV 80S" tvg-logo="https://docdog.top/logo/countries/germany/new/MTV_80S.png" group-title="DE | MUSIK",DE: MTV 80S
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135204
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV CLUB" tvg-logo="https://docdog.top/logo/countries/germany/new/MTV_CLUB.png" group-title="DE | MUSIK",DE: MTV CLUB
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135206
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV" tvg-logo="https://docdog.top/logo/countries/germany/new/MTV_HD.png" group-title="DE | MUSIK",DE: MTV
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135207
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV HITS" tvg-logo="https://docdog.top/logo/countries/germany/new/MTV_HITS.png" group-title="DE | MUSIK",DE: MTV HITS
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135208
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV LIVE" tvg-logo="https://docdog.top/logo/countries/germany/new/MTV_LIVE_HD.png" group-title="DE | MUSIK",DE: MTV LIVE
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135209
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV+" tvg-logo="https://docdog.top/logo/countries/germany/new/MTV.png" group-title="DE | MUSIK",DE: MTV+
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135210
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA MUSIK 1" tvg-logo="https://docdog.top/logo/countries/germany/new/MAGENTA_MUSIK_1.png" group-title="DE | MUSIK",DE: MAGENTA MUSIK 1
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135211
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA MUSIK 2" tvg-logo="https://docdog.top/logo/countries/germany/new/MAGENTA_MUSIK_2.png" group-title="DE | MUSIK",DE: MAGENTA MUSIK 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135212
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONE MUSIC TELEVISION" tvg-logo="https://docdog.top/logo/countries/germany/new/ONE_MUSIC_TELEVISION.png" group-title="DE | MUSIK",DE: ONE MUSIC TELEVISION
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135213
-#EXTINF:-1 tvg-id="" tvg-name="DE: SCHLAGERPARADIES.TV" tvg-logo="https://docdog.top/logo/countries/germany/new/SCHLAGERPARADIES_TV.png" group-title="DE | MUSIK",DE: SCHLAGERPARADIES.TV
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135214
-#EXTINF:-1 tvg-id="" tvg-name="DE: STINGRAY CLASSICA" tvg-logo="https://docdog.top/logo/countries/germany/new/STINGRAY_CLASSICA.png" group-title="DE | MUSIK",DE: STINGRAY CLASSICA
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135215
-#EXTINF:-1 tvg-id="" tvg-name="DE: STINGRAY DJAZZ" tvg-logo="https://docdog.top/logo/countries/germany/new/STINGRAY_DJAZZ.png" group-title="DE | MUSIK",DE: STINGRAY DJAZZ
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135216
-#EXTINF:-1 tvg-id="" tvg-name="DE: STINGRAY ICONCERTS" tvg-logo="https://docdog.top/logo/countries/germany/new/STINGRAY_ICONCERTS.png" group-title="DE | MUSIK",DE: STINGRAY ICONCERTS
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135217
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOLKSMUSIK.TV" tvg-logo="https://docdog.top/logo/countries/germany/new/VOLKSMUSIK_TV.png" group-title="DE | MUSIK",DE: VOLKSMUSIK.TV
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135218
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZWEI MUSIC TELEVISION" tvg-logo="https://docdog.top/logo/countries/germany/new/ZWEI_MUSIC_TELEVISION.png" group-title="DE | MUSIK",DE: ZWEI MUSIC TELEVISION
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135219
+
 #EXTINF:-1 tvg-id="" tvg-name="DE: AL JAZEERA ENGLISH" tvg-logo="https://docdog.top/logo/countries/germany/new/AL_JAZEERA_ENGLISH_HD.png" group-title="DE | NACHRICHTEN",DE: AL JAZEERA ENGLISH
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/135220
 #EXTINF:-1 tvg-id="" tvg-name="DE: ASHARQ NEWS" tvg-logo="https://docdog.top/logo/countries/germany/new/ASHARQ_NEWS.png" group-title="DE | NACHRICHTEN",DE: ASHARQ NEWS
@@ -13940,14 +14093,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/878
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/879
 #EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT 5" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT 5
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/889
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 1
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/880
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/881
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 3
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/882
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 4
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/883
+
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 1
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34309
 #EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 2
@@ -14364,18 +14510,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/104
 #EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA" tvg-logo="https://docdog.top/logo/countries/portugal/zapviva.png" group-title="PT | OTHERS",PT: ZAP VIVA
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/105
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 1
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99475
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99476
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 3
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99477
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 4
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99478
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 5
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99479
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 6
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99480
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-1.png" group-title="PT | ESPORTES VIP",PT: EUROSPORT 1
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/99481
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="PT | ESPORTES VIP",PT: EUROSPORT 2
@@ -20548,18 +20683,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/158327
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34146
 #EXTINF:-1 tvg-id="" tvg-name="CRO: VIP MAX SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport2.png" group-title="EU | CROATIA VIP",CRO: VIP MAX SPORT 2
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/37641
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport1.png" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 1
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2991
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport2.png" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2992
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport3.png" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 3
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2993
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport4.png" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 4
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2994
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport5.png" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 5
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2995
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport6.png" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 6
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2996
+
 #EXTINF:-1 tvg-id="" tvg-name="CRO: SPORT KLUB 1" tvg-logo="https://docdog.top/logo/countries/croatia/sportklub-1-hr.png" group-title="EU | CROATIA VIP",CRO: SPORT KLUB 1
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/2997
 #EXTINF:-1 tvg-id="" tvg-name="CRO: SPORT KLUB 2" tvg-logo="https://docdog.top/logo/countries/croatia/sportklub-2-hr.png" group-title="EU | CROATIA VIP",CRO: SPORT KLUB 2
@@ -20756,14 +20880,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3092
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3093
 #EXTINF:-1 tvg-id="" tvg-name="CRO: Z1" tvg-logo="https://docdog.top/logo/countries/croatia/z1-hr.png" group-title="EU | CROATIA VIP",CRO: Z1
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3094
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 7" tvg-logo="" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 7
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114939
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 8" tvg-logo="" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 8
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114940
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 9" tvg-logo="" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 9
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114941
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 10" tvg-logo="" group-title="EU | CROATIA VIP",CRO: ARENA SPORT 10
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114942
+
 #EXTINF:-1 tvg-id="" tvg-name="CRO: RTL Adria" tvg-logo="" group-title="EU | CROATIA VIP",CRO: RTL Adria
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114943
 #EXTINF:-1 tvg-id="" tvg-name="CRO: Banovina Tv" tvg-logo="" group-title="EU | CROATIA VIP",CRO: Banovina Tv
@@ -21538,24 +21655,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3406
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3407
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/exyu/animalplanet.png" group-title="EU | EX-YU VIP",EX-YU: ANIMAL PLANET
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3408
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 HR" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 1 HR
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3409
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 1 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 1 SRB
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3410
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 BIH" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 2 BIH
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3411
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 2 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 2 SRB
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3412
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 3 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 3 SRB
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3413
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 BIH" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport4.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 4 BIH
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3414
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 4 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport4.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 4 SRB
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3415
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 5 HR" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport5.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 5 HR
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3416
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA SPORT 5 SRB" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport5.png" group-title="EU | EX-YU VIP",EX-YU: ARENA SPORT 5 SRB
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3417
+
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: AXN" tvg-logo="https://docdog.top/logo/countries/exyu/axn.png" group-title="EU | EX-YU VIP",EX-YU: AXN
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3418
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: AXN ADRIA" tvg-logo="https://docdog.top/logo/countries/exyu/axnadria.png" group-title="EU | EX-YU VIP",EX-YU: AXN ADRIA
@@ -21972,12 +22072,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/3621
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/87094
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: eurosport 2" tvg-logo="https://docdog.top/logo/countries/exyu/eurosport2.png" group-title="EU | EX-YU VIP",EX-YU: eurosport 2
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/87095
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport Premium 1" tvg-logo="" group-title="EU | EX-YU VIP",EX-YU: Arena Sport Premium 1
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/97139
-#EXTINF:-1 tvg-id="" tvg-name="EX_YU: Arena Sport Premium 2" tvg-logo="" group-title="EU | EX-YU VIP",EX_YU: Arena Sport Premium 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/97140
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport Premium 3" tvg-logo="" group-title="EU | EX-YU VIP",EX-YU: Arena Sport Premium 3
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/97141
+
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 4" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 4
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/114935
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: Prva TV CG" tvg-logo="" group-title="EU | EX-YU VIP",EX-YU: Prva TV CG
@@ -22942,82 +23037,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144488
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144489
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA FIGHT (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_FIGHT_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA FIGHT (SRB)
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144490
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (BIH)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144491
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144492
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (SRB)  FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144493
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (SRB)  HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144494
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 10 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144495
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 10 (SRB) FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144496
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1X2 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1X2_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1X2 (SRB)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144497
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (BIH)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144498
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144499
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (SRB)  FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144500
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (SRB)  HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144501
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (BIH)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144502
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144503
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (SRB)  FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144504
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (SRB)  HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144505
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 4 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144506
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 4 (SRB)  FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144507
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 4 (SRB)  HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144508
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 5 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144509
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 5 (SRB)  FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144510
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 5 (SRB)  HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144511
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 6 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144512
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 6 (SRB)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144513
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 7 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144514
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 7 (SRB)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144515
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 8 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144516
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 8 (SRB)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144517
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 9 (CRO)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144518
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 9 (SRB) FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144519
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 1 (BIH)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144520
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 1 (SRB) FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144521
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 1 (SRB) HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144522
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 2 (BIH)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144523
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 2 (SRB) FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144524
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 2 (SRB) HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144525
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 3 (BIH)
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144526
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 3 (SRB) FHD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144527
-#EXTINF:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 3 (SRB) HD
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144528
+
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: EUROSPORT 1 FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EUROSPORT_1_FHD.png" group-title="EXYU | SPORT VIP",EXYU: EUROSPORT 1 FHD
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/144529
 #EXTINF:-1 tvg-id="" tvg-name="EXYU: EUROSPORT 1 HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EUROSPORT_1_HD.png" group-title="EXYU | SPORT VIP",EXYU: EUROSPORT 1 HD
@@ -24190,28 +24210,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115014
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115015
 #EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Fight" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Arena Fight
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115016
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1x2" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Arena Sport 1x2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115017
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 1" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="EU | SERBIA VIP",SRB: Arena Sport 1
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115037
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 2" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="EU | SERBIA VIP",SRB: Arena Sport 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115038
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 3" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="EU | SERBIA VIP",SRB: Arena Sport 3
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115039
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 4" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport4.png" group-title="EU | SERBIA VIP",SRB: Arena Sport 4
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115040
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 5" tvg-logo="http://inax.top:8080/megarestream/Hehe321@restreamer/5520" group-title="EU | SERBIA VIP",SRB: Arena Sport 5
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115041
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 6" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Arena Sport 6
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115018
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 7" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Arena Sport 7
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115019
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 8" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Arena Sport 8
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115020
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 9" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Arena Sport 9
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115021
-#EXTINF:-1 tvg-id="" tvg-name="SRB: Arena Sport 10" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Arena Sport 10
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115022
+
 #EXTINF:-1 tvg-id="" tvg-name="SRB: Nova Sport" tvg-logo="https://docdog.top/logo/countries/exyu/nova.png" group-title="EU | SERBIA VIP",SRB: Nova Sport
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115023
 #EXTINF:-1 tvg-id="" tvg-name="SRB: Sport Klub ESport" tvg-logo="" group-title="EU | SERBIA VIP",SRB: Sport Klub ESport
@@ -24666,18 +24665,7 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115059
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115060
 #EXTINF:-1 tvg-id="" tvg-name="BH: Moja TV Premier Liga" tvg-logo="" group-title="EU | BOSNIA VIP",BH: Moja TV Premier Liga
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115061
-#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport1.png" group-title="EU | BOSNIA VIP",BH: Arena Sport
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115063
-#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport 2" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport2.png" group-title="EU | BOSNIA VIP",BH: Arena Sport 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115068
-#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport 3" tvg-logo="https://docdog.top/logo/countries/exyu/arenasport3.png" group-title="EU | BOSNIA VIP",BH: Arena Sport 3
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115064
-#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport Premium 1" tvg-logo="" group-title="EU | BOSNIA VIP",BH: Arena Sport Premium 1
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115065
-#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport Premium 2" tvg-logo="" group-title="EU | BOSNIA VIP",BH: Arena Sport Premium 2
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115066
-#EXTINF:-1 tvg-id="" tvg-name="BH: Arena Sport Premium 3" tvg-logo="" group-title="EU | BOSNIA VIP",BH: Arena Sport Premium 3
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/115067
+
 #EXTINF:-1 tvg-id="" tvg-name="RUS: MUSIC FIRST" tvg-logo="https://docdog.top/logo/countries/russian/MUSICFIRST.jpg" group-title="RUSSIAN VIP",RUS: MUSIC FIRST
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/4163
 #EXTINF:-1 tvg-id="" tvg-name="RUS: TNT MUSIC" tvg-logo="https://docdog.top/logo/countries/russian/tntmusic.png" group-title="RUSSIAN VIP",RUS: TNT MUSIC
@@ -25854,8 +25842,6 @@ http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/157964
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/157965
 #EXTINF:-1 tvg-id="" tvg-name="AF: DSTV ONE GOSPEL" tvg-logo="" group-title="AFRICA VIP",AF: DSTV ONE GOSPEL
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/157966
-#EXTINF:-1 tvg-id="" tvg-name="AF: EBS MUSIKA" tvg-logo="" group-title="AFRICA VIP",AF: EBS MUSIKA
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/157967
 #EXTINF:-1 tvg-id="" tvg-name="AF: IVOIRE TV MUSIC" tvg-logo="" group-title="AFRICA VIP",AF: IVOIRE TV MUSIC
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/157968
 #EXTINF:-1 tvg-id="" tvg-name="AF: MELODY D'AFRIQUE" tvg-logo="" group-title="AFRICA VIP",AF: MELODY D'AFRIQUE
@@ -39743,82 +39729,7 @@ http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144488
 http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144489
 #EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA FIGHT (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_FIGHT_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA FIGHT (SRB)
 http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144490
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (BIH)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144491
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144492
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (SRB)  FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144493
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1 (SRB)  HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144494
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 10 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144495
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 10 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_10_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 10 (SRB) FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144496
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 1X2 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_1X2_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 1X2 (SRB)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144497
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (BIH)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144498
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144499
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (SRB)  FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144500
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 2 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_2_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 2 (SRB)  HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144501
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (BIH)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144502
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144503
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (SRB)  FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144504
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 3 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_3_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 3 (SRB)  HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144505
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 4 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144506
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 4 (SRB)  FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144507
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 4 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_4_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 4 (SRB)  HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144508
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 5 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144509
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 5 (SRB)  FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144510
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 5 (SRB)  HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_5_SRB__HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 5 (SRB)  HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144511
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 6 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144512
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 6 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_6_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 6 (SRB)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144513
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 7 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144514
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 7 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_7_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 7 (SRB)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144515
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 8 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144516
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 8 (SRB)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_8_SRB.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 8 (SRB)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144517
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (CRO)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_CRO.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 9 (CRO)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144518
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT 9 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_9_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT 9 (SRB) FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144519
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 1 (BIH)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144520
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 1 (SRB) FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144521
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 1 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_1_SRB_HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 1 (SRB) HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144522
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 2 (BIH)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144523
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 2 (SRB) FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144524
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 2 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_2_SRB_HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 2 (SRB) HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144525
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (BIH)" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_BIH.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 3 (BIH)
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144526
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_FHD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 3 (SRB) FHD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144527
-#EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: ARENA SPORT PREMIUM 3 (SRB) HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/ARENA_SPORT_PREMIUM_3_SRB_HD.png" group-title="EXYU | SPORT VIP",EXYU: ARENA SPORT PREMIUM 3 (SRB) HD
-http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144528
+
 #EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: EUROSPORT 1 FHD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EUROSPORT_1_FHD.png" group-title="EXYU | SPORT VIP",EXYU: EUROSPORT 1 FHD
 http://vipketseyket.top:8080/VIP0131707319180004/5665a8bcfb47/144529
 #EXTINF:-1:-1 tvg-id="" tvg-name="EXYU: EUROSPORT 1 HD" tvg-logo="https://docdog.top/logo/countries/EXYUNEW/EUROSPORT_1_HD.png" group-title="EXYU | SPORT VIP",EXYU: EUROSPORT 1 HD
