@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDO",TRANS7
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDO",TRANSTV
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Trtv.m3u8
+
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="LOKAL INDO" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
